@@ -25,8 +25,17 @@ This is the customer-facing frontend and admin dashboard application for **Resto
 ### Discover Restaurants
 ![Restaurant List](docs/screenshots/restaurant_list.png)
 
+### All Restaurants
+![All Restaurants](docs/screenshots/all_restaurants.png)
+
 ### Restaurant Menu & Details
 ![Restaurant Detail](docs/screenshots/restaurant_detail.png)
+
+### Checkout Process
+![Checkout](docs/screenshots/checkout.png)
+
+### Footer
+![Footer](docs/screenshots/footer.png)
 
 ## Tech Stack 🛠️
 
